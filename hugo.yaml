@@ -1,13 +1,13 @@
 baseURL: 'https://aurora.wp.computer'
 languageCode: 'en-us'
-title: 'AURORA BLAIR MUNRO'
+title: 'AURORA 4OMNI-BLAIR MUNRO'
 theme: 'terminal'
 timeZone: ""
 menus:
   main:
     - identifier: enter
       name: ENTER
-      url: https://apx.wilder.wp.computer
+      url: https://apx.aurora.wp.computer
       weight: 20
 paginate: 10
 permalinks:
